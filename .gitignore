@@ -1,0 +1,22 @@
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Betriebssystem
+.DS_Store        # Mac
+Thumbs.db        # Windows
+desktop.ini      # Windows
+
+# Eigene sensitive Daten
+*.env
+.env
+config.ini
+secrets.json
+
