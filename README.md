@@ -43,3 +43,8 @@ customer_segmentation/
 ├── notebooks/           # Jupyter Notebooks  
 ├── outputs/             # Visualisierungen & Reports  
 └── requirements.txt     # Python-Pakete  
+
+## Visualisierungen
+
+![Income vs. Spending](outputs/04_income_vs_spending.png)
+
