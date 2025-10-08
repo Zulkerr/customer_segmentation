@@ -51,5 +51,7 @@ customer_segmentation/
 
 ![Elbow-Methode](outputs/07_elbow_method.png)  
 
-![KMeans-Cluster](outputs/08_kmeans_clusters.png)
+![KMeans-Cluster](outputs/08_kmeans_clusters.png)   
+
+![ROI-Analyse](outputs/11_cluster_value.png)
 
