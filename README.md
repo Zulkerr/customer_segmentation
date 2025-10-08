@@ -38,8 +38,8 @@ jupyter notebook
 ````
 ## Struktur
 
-customer_segmentation/
-├── data/              # Dataset
-├── notebooks/         # Jupyter Notebooks
-├── outputs/           # Visualisierungen & Reports
-└── requirements.txt   # Python-Pakete
+customer_segmentation/  
+├── data/                # Dataset  
+├── notebooks/           # Jupyter Notebooks  
+├── outputs/             # Visualisierungen & Reports  
+└── requirements.txt     # Python-Pakete  
