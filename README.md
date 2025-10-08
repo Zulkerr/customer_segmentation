@@ -23,7 +23,7 @@ Dieses Projekt verwendet K-Means Clustering, um Kunden in 5 unterschiedliche Seg
 ##  Installation
 ```bash
 # Repository klonen
-git clone <dein-repo>
+git clone <customer_segmentation>  
 
 # Virtuelle Umgebung erstellen
 python -m venv venv
