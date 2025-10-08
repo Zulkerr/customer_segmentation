@@ -49,5 +49,5 @@ customer_segmentation/
 ![Income vs. Spending](outputs/04_income_vs_spending.png)  
 
 
-![Elbow-Methode](07_elbow_method.png)
+![Elbow-Methode](outputs/07_elbow_method.png)
 
